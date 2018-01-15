@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/B4B.01.21/hib/Hibernate Only/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/B4B.01.21/hib/Hibernate Only/asm-all-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/B4B.01.21/hib/Hibernate Only/cglib-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/B4B.01.21/hib/Hibernate Only/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/B4B.01.21/hib/Hibernate Only/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/B4B.01.21/hib/Hibernate Only/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/B4B.01.21/hib/Hibernate Only/hibernate-annotations-3.3.1.GA.jar"/>
+	<classpathentry kind="lib" path="C:/B4B.01.21/hib/Hibernate Only/hibernate-commons-annotations-3.3.0.ga.jar"/>
+	<classpathentry kind="lib" path="C:/B4B.01.21/hib/Hibernate Only/hibernate-core-3.3.1.GA.jar"/>
+	<classpathentry kind="lib" path="C:/B4B.01.21/hib/Hibernate Only/hibernate-ehcache-3.5.5-Final.jar"/>
+	<classpathentry kind="lib" path="C:/B4B.01.21/hib/Hibernate Only/hibernate-entitymanager-3.3.2.GA.jar"/>
+	<classpathentry kind="lib" path="C:/B4B.01.21/hib/Hibernate Only/hibernate-jpa-2.0-api.jar"/>
+	<classpathentry kind="lib" path="C:/B4B.01.21/hib/Hibernate Only/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/B4B.01.21/hib/Hibernate Only/jboss-logging.jar"/>
+	<classpathentry kind="lib" path="C:/B4B.01.21/hib/Hibernate Only/jboss-logging-3.1.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/B4B.01.21/hib/Hibernate Only/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/B4B.01.21/hib/Hibernate Only/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/B4B.01.21/hib/Hibernate Only/mysql-connector-java-5.1.13.jar"/>
+	<classpathentry kind="lib" path="C:/B4B.01.21/hib/Hibernate Only/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/B4B.01.21/hib/Hibernate Only/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/B4B.01.21/hib/Hibernate Only/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
